@@ -5,7 +5,7 @@
   "main": "index.js",
   "license": "ISC",
   "dependencies": {
-    "minimist": "1.2.5",
+    "minimist": "1.2.6",
     "sanitize-html": "2.12.0"
   }
 }
