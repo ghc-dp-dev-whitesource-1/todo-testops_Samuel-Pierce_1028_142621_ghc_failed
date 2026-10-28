@@ -1,0 +1,11 @@
+{
+  "name": "remediation-pr-priority",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "1.2.5",
+    "sanitize-html": "2.12.0"
+  }
+}
